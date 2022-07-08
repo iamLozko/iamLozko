@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently studying for my A-levels.
 - 🤔 I’m looking for help with my web developmet and Python knowledge.
-- 📫 How to reach me: ...
 - ⚡ Fun fact: I like playing chess and listening to music.
 
 <!--
